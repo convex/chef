@@ -6,7 +6,7 @@
 </p>
 
 [Chef](https://chef.convex.dev) is the only AI app builder that knows backend. It builds full-stack web apps with a built-in database, zero config auth, file uploads,
-real-time UIs, and background workflows. If you want to check out the secret sauce that powers Chef, you can view or download the system prompt [here](https://github.com/get-convex/chef/releases/latest).
+real-time UIs, and background workflows. If you want to check out the secret sauce that powers Chef, you can view or download the system prompt [here](https://github.com/convex/chef/releases/latest).
 
 Chef's capabilities are enabled by being built on top of [Convex](https://convex.dev), the open-source reactive database designed to make life easy for web app developers. The "magic" in Chef is just the fact that it's using Convex's APIs, which are an ideal fit for codegen.
 
@@ -39,7 +39,7 @@ Note: This will use the hosted Convex control plane to provision Convex projects
 Clone the GitHub respository and `cd` into the directory by running the following commands:
 
 ```bash
-git clone https://github.com/get-convex/chef.git
+git clone https://github.com/convex/chef.git
 cd chef
 ```
 

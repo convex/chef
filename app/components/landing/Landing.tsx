@@ -4,7 +4,7 @@ export default function Landing() {
       <div className="overflow-hidden rounded-lg border border-neutral-2 dark:border-neutral-10">
         <div className="flex items-center border-b border-neutral-2 bg-neutral-1/20 px-4 py-2 dark:border-neutral-10 dark:bg-neutral-11">
           <a
-            href="https://github.com/get-convex/chef"
+            href="https://github.com/convex/chef"
             className="flex items-center gap-2 hover:text-neutral-9 dark:hover:text-neutral-4"
           >
             <svg
@@ -26,7 +26,7 @@ export default function Landing() {
           <p>
             Chef is open-source, check out the GitHub repo{' '}
             <a
-              href="https://github.com/get-convex/chef"
+              href="https://github.com/convex/chef"
               className="font-semibold text-bolt-elements-button-primary-backgroundHover hover:underline dark:text-white"
             >
               here
@@ -46,7 +46,7 @@ export default function Landing() {
             uploads, real-time UIs, and background workflows. If you want to check out the secret sauce that powers
             Chef, you can view or download the system prompt{' '}
             <a
-              href="https://github.com/get-convex/chef/releases/latest"
+              href="https://github.com/convex/chef/releases/latest"
               className="font-semibold text-bolt-elements-button-primary-backgroundHover hover:underline dark:text-white"
             >
               here
@@ -68,7 +68,7 @@ export default function Landing() {
           <p>
             Development of the Chef is led by the Convex team. We{' '}
             <a
-              href="https://github.com/get-convex/chef/blob/main/CONTRIBUTING.md"
+              href="https://github.com/convex/chef/blob/main/CONTRIBUTING.md"
               className="font-semibold text-bolt-elements-button-primary-backgroundHover hover:underline dark:text-white"
             >
               welcome bug fixes
@@ -94,7 +94,7 @@ export default function Landing() {
           </p>
           <div className="flex justify-center">
             <a
-              href="https://github.com/get-convex/chef"
+              href="https://github.com/convex/chef"
               className="inline-flex items-center gap-2 rounded-lg border border-neutral-3 bg-neutral-1/50 px-3 py-2 text-lg text-neutral-12 transition-all hover:bg-neutral-1 dark:border-neutral-700 dark:bg-neutral-11 dark:text-neutral-2 dark:hover:bg-neutral-10"
             >
               <svg className="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
